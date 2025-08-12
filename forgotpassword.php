@@ -14,4 +14,4 @@ if ($conn->connect_error) {
 }
 
 // Function to send password reset email
-function send_password_reset_email
+//function send_password_reset_email
